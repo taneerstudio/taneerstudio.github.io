@@ -50,10 +50,9 @@ unter `assets/licenses/Amiri-OFL-1.1.txt`.
 „Wissen suchen, Licht bringen“ und „Wer Wissen sucht und vorangeht, bringt Licht“
 sind eigene Leitsätze des Projekts, keine als Hadith oder Gelehrtenzitat
 ausgegebenen Texte. Die Namensidee (Wissensstreben + Pioniergeist) kommt vom
-Gründer. `تُنِير` ist ein sprachlicher Anklang, nicht die behauptete arabische
-Übersetzung des Markennamens. `Tunīr` kann „du erhellst“ bedeuten,
-nicht das Substantiv „Licht“. Die sichtbare Formulierung „Tunīr · erhellen“
-greift das Erhellen als Leitmotiv auf, nicht als wörtliche grammatische Übersetzung.
+Gründer. Unter dem Logo steht kein zusätzlicher Leitsatz und keine arabische
+Schreibweise. Die frühere Erklärung des sprachlichen Anklangs an „Tunīr“ wurde
+auf Nutzerwunsch aus der sichtbaren Seite entfernt.
 `Ṭalab al-ʿilm` bezeichnet das Streben nach Wissen, nicht die Person „Schüler“.
 Die kurze Markengeschichte konzentriert sich auf intuitives Lernen und neue
 Lernformen; sie wiederholt die App-Beschreibungen nicht.
@@ -61,5 +60,3 @@ Lernformen; sie wiederholt die App-Beschreibungen nicht.
 Sprachliche Belege, geprüft am 2026-10-05:
 
 - https://terminologyenc.com/ar/browse/term/47777
-- https://www.arabicacademy.gov.eg/ar/محرك-البحث/أنار
-- https://en.wiktionary.org/wiki/تنير
