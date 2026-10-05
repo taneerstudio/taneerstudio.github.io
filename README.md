@@ -28,8 +28,35 @@ Netzwerkziele, Berechtigungen, optionale Systemdienste und Löschfunktionen prü
 Datum und Versionsbezug aktualisieren. Texte sind eine technische Bestandsaufnahme
 und ein redaktioneller Entwurf, keine Garantie juristischer Vollständigkeit.
 
-Nur Website-Dateien ausdrücklich stagen. Keine APKs, App-Assets, Logs, privaten
+Nur Website-Dateien ausdrücklich stagen. Keine APKs, unfreigegebenen App-Assets, Logs, privaten
 Notizen, Schlüssel oder Zugangsdaten hinzufügen. Das veröffentlichte Impressum
 enthält die vom Anbieter für diesen Zweck freigegebenen Kontaktangaben.
 
 Lokale Vorschau: `python3 -m http.server 8765 --bind 127.0.0.1`.
+
+## Bilddateien
+
+Das freigegebene TANEER-Logo und das vorhandene gemeinsame Blumenmuster werden
+unverändert als lokale PNGs verwendet. Die drei App-Icons sind SVG-Übertragungen
+der tatsächlichen Android-Launcher-Motive mit denselben Pfaden und Farben;
+sie sind keine erfundenen App-Screenshots. Alle Bilddateien werden hier gehostet.
+
+Die arabischen Buchstaben im Elif-Tutor-Icon stammen aus den bereits in der App
+verwendeten Amiri-Schriftumrissen (SIL OFL 1.1). Der zugehörige Lizenztext liegt
+unter `assets/licenses/Amiri-OFL-1.1.txt`.
+
+## Markengeschichte
+
+„Wissen suchen, Licht bringen“ und „Wer Wissen sucht und vorangeht, bringt Licht“
+sind eigene Leitsätze des Projekts, keine als Hadith oder Gelehrtenzitat
+ausgegebenen Texte. Die Namensidee (Wissensstreben + Pioniergeist) kommt vom
+Gründer. `تُنِير` ist ein sprachlicher Anklang, nicht die behauptete arabische
+Übersetzung des Markennamens. `Tunīr` wird hier als „du erhellst“ verstanden,
+nicht als das Substantiv „Licht“. `Ṭalab al-ʿilm` bezeichnet das Streben nach
+Wissen, nicht die Person „Schüler“.
+
+Sprachliche Belege, geprüft am 2026-10-05:
+
+- https://terminologyenc.com/ar/browse/term/47777
+- https://www.arabicacademy.gov.eg/ar/محرك-البحث/أنار
+- https://en.wiktionary.org/wiki/تنير

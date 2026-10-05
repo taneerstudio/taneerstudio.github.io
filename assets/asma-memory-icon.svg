@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 108 108" width="108" height="108">
+  <!-- Exact paths, colors and alpha values from the app's Android launcher. -->
+  <rect width="108" height="108" fill="#B45A73"/>
+  <path fill="none" stroke="#FFF3EE" stroke-opacity="0.55" stroke-width="1.4" d="M81,54 a27,27 0 1,0 -54,0 a27,27 0 1,0 54,0 Z"/>
+  <path fill="#FFF3EE" fill-opacity="0.92" d="M62.5,40 a8.5,8.5 0 1,0 -17,0 a8.5,8.5 0 1,0 17,0 Z M72.4,44.1 a8.5,8.5 0 1,0 -17,0 a8.5,8.5 0 1,0 17,0 Z M76.5,54 a8.5,8.5 0 1,0 -17,0 a8.5,8.5 0 1,0 17,0 Z M72.4,63.9 a8.5,8.5 0 1,0 -17,0 a8.5,8.5 0 1,0 17,0 Z M62.5,68 a8.5,8.5 0 1,0 -17,0 a8.5,8.5 0 1,0 17,0 Z M52.6,63.9 a8.5,8.5 0 1,0 -17,0 a8.5,8.5 0 1,0 17,0 Z M48.5,54 a8.5,8.5 0 1,0 -17,0 a8.5,8.5 0 1,0 17,0 Z M52.6,44.1 a8.5,8.5 0 1,0 -17,0 a8.5,8.5 0 1,0 17,0 Z"/>
+  <path fill="#B45A73" fill-opacity="0.35" d="M63,54 a9,9 0 1,0 -18,0 a9,9 0 1,0 18,0 Z"/>
+  <path fill="#E3C38C" d="M60,54 a6,6 0 1,0 -12,0 a6,6 0 1,0 12,0 Z"/>
+</svg>

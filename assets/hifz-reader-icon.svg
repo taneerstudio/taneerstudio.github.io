@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 108 108" width="108" height="108">
+  <!-- Exact paths and colors from the app's existing Android launcher mark. -->
+  <rect width="108" height="108" fill="#183B32"/>
+  <path fill="#F7F3EA" d="M34,34 L74,34 L74,74 L34,74 Z"/>
+  <path fill="#F7F3EA" d="M54,25.7 L82.3,54 L54,82.3 L25.7,54 Z"/>
+  <path fill="#183B32" d="M45,45 L63,45 L63,63 L45,63 Z"/>
+</svg>
