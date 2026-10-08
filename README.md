@@ -8,7 +8,9 @@
 - Impressum: https://taneerstudio.github.io/impressum/
 - Datenschutzübersicht: https://taneerstudio.github.io/datenschutz/
 - Website-Datenschutz: https://taneerstudio.github.io/datenschutz/website/
-- Hifz Reader (Android V100): https://taneerstudio.github.io/datenschutz/hifz-reader/
+- Hifz Reader (Android und iPhone): https://taneerstudio.github.io/datenschutz/hifz-reader/
+- Asma Memory (Android und iPhone; Deutsch/English): https://taneerstudio.github.io/datenschutz/asma-memory/
+- Elif Tutor (Android und iPhone): https://taneerstudio.github.io/datenschutz/elif-tutor/
 
 Statisches HTML/CSS, keine externen Schriftabrufe, kein JavaScript, kein eigenes
 Tracking, keine eigenen Cookies. Hosting über GitHub Pages, Branch `main`, Root.
@@ -17,9 +19,13 @@ GitHub verarbeitet für die Auslieferung Verbindungsdaten; siehe Website-Datensc
 Der App-Quellcode gehört ausdrücklich **nicht** in dieses öffentliche Repository.
 Er wird getrennt im privaten Repository `taneer-apps` gepflegt.
 
-Datenschutzerklärungen für Asma Memory, Elif Tutor und zukünftige iOS-Fassungen
-müssen anhand ihrer tatsächlichen Implementierung ergänzt werden. Keine
-ungeprüften Eigenschaften aus Hifz Reader auf andere Apps übertragen.
+Die Datenschutz-Aktualisierung vom 08.10.2026 übernimmt die vom Nutzer angegebenen
+Android-/iPhone-Texte aus den drei jeweiligen Quellbranches des privaten
+App-Repositories. Kein App-Code wurde übernommen oder verändert. Die iPhone-
+Fassungen sind noch in Vorbereitung und vor ihrem Store-Release mit der tatsächlichen
+nativen Implementierung abzugleichen. Keine ungeprüften Eigenschaften zwischen Apps übertragen.
+Vorschau, Text-/Linkprüfung und Browserprüfung sind abgeschlossen. Der Nutzer hat
+die Veröffentlichung am 08.10.2026 nach Ansicht der Vorschau freigegeben.
 
 ## Pflege
 
