@@ -17,6 +17,16 @@
 .app-visual::before{background-size:360px auto;opacity:.18}
 .app-icon{width:124px;height:124px;border-radius:24%;border:1px solid #ffffff25;box-shadow:0 9px 24px #00000025}
 .app-number{margin-bottom:.8rem}
+/* Keep the approved white studio/app cards even in Android dark mode.
+   'only light' opts out of browser-generated grey recolouring. Legal reading
+   pages retain their separately approved green dark palette. */
+:root{color-scheme:only light}
+@media screen and (prefers-color-scheme:dark){
+ body.hifz-legal{color-scheme:dark;--ink:#efe8d9;--deep:#0d2721;--green:#16332b;--gold:#d9b871;--gold-light:#e7d3a7;--paper:#12332b;--wash:#0c211c;--muted:#b5c2b7;--line:#38564a;min-height:100vh;background:var(--wash);color:var(--ink)}
+ .hifz-legal .page-head,.hifz-legal .legal-article,.hifz-legal .imprint-card,.hifz-legal .skip{background:var(--paper);color:var(--ink)}
+ .hifz-legal .notice{background:#173b31;color:var(--ink)}
+ .hifz-legal a:hover,.hifz-legal .legal-article a,.hifz-legal address a{color:var(--gold-light)}
+}
 .brand-signature{width:100%;max-width:395px;justify-self:end;text-align:center}
 .brand-signature .hero-logo{width:100%}
 .brand-tagline{font-size:.9rem;letter-spacing:.055em;margin:-.35rem 0 .4rem;color:var(--ink)}
