@@ -11,6 +11,7 @@
 - Hifz Reader (Android und iPhone): https://taneerstudio.github.io/datenschutz/hifz-reader/
 - Asma Memory (Android und iPhone; Deutsch/English): https://taneerstudio.github.io/datenschutz/asma-memory/
 - Elif Tutor (Android und iPhone): https://taneerstudio.github.io/datenschutz/elif-tutor/
+- Ilmihal Guide (Android): https://taneerstudio.github.io/datenschutz/ilmihal-guide/
 
 Statisches HTML/CSS, keine externen Schriftabrufe, kein JavaScript, kein eigenes
 Tracking, keine eigenen Cookies. Hosting über GitHub Pages, Branch `main`, Root.
@@ -46,6 +47,13 @@ Das freigegebene TANEER-Logo und das vorhandene gemeinsame Blumenmuster werden
 unverändert als lokale PNGs verwendet. Die drei App-Icons sind SVG-Übertragungen
 der tatsächlichen Android-Launcher-Motive mit denselben Pfaden und Farben;
 sie sind keine erfundenen App-Screenshots. Alle Bilddateien werden hier gehostet.
+
+Das Ilmihal-Guide-Icon (`assets/ilmihal-guide-icon.png`, 216 px) ist eine verkleinerte Kopie des
+App-Logos `apps/ilmihal-guide/android/artwork/app_icon_1024.png` (Figur des Nutzers in Champagner auf
+Anthrazit), keine neue Illustration. Die Ilmihal-Datenschutzerklärung (24.10.2026) beschreibt die
+tatsächlichen Funktionen der Android-Version 0.7.0 (einzige Verbindung: Quran-Ton von MP3Quran);
+die iPhone-Fassung wird vor deren Veröffentlichung ergänzt. Ilmihal Guide steht wie Asma Memory
+und Elif Tutor als „In Vorbereitung“ auf der Startseite.
 
 Die arabischen Buchstaben im Elif-Tutor-Icon stammen aus den bereits in der App
 verwendeten Amiri-Schriftumrissen (SIL OFL 1.1). Der zugehörige Lizenztext liegt
