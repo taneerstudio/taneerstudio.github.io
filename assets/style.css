@@ -11,7 +11,10 @@
 .apps-surface{background:var(--deep);border-block:1px solid #315548;color:#f7f3ea;margin-bottom:3.5rem}
 .apps-surface::before{background-size:720px auto;opacity:.2}
 .apps-surface .section-heading .small{color:#d6e2dc}
-.app-downloads{display:flex;flex-wrap:wrap;gap:.5rem;margin-bottom:.55rem}
+.app-downloads{display:flex;align-items:flex-start;flex-direction:column;gap:.65rem;margin-bottom:.65rem}
+.app-downloads img{height:40px;width:auto}
+.app-downloads .play-badge{display:inline-flex;align-items:center;height:42px}
+.app-downloads .play-badge img{width:148px;height:auto;max-width:none;margin-inline-start:-10px}
 .app-card{color:var(--ink);padding:1.4rem}
 .app-visual{align-self:stretch;display:grid;place-items:center;min-height:185px;border:1px solid #ffffff25;border-radius:12px;margin-bottom:1.5rem}
 .hifz-visual{background:#183b32}.asma-visual{background:#7e3148}.elif-visual{background:#10284a}.ilmihal-visual{background:#2b2926}
